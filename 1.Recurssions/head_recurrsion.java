@@ -14,18 +14,9 @@ public class head_recursion
          int x=3;
 	       fun(x);
        }
-<<<<<<< Updated upstream
  }/*
-=======
- }
-/*
->>>>>>> Stashed changes
 Output :
          1
          2
          3
-<<<<<<< Updated upstream
 */
-=======
-*/
->>>>>>> Stashed changes

@@ -15,9 +15,7 @@ public class tail_recursion
 	       fun(x);
        }
  }
-/*
 Output :
          1
          2
          3
-*/
