@@ -14,8 +14,9 @@ public class head_recursion
          int x=3;
 	       fun(x);
        }
- }
+ }/*
 Output :
          1
          2
          3
+*/
